@@ -1,0 +1,90 @@
+
+#About-Me {
+  border: 0.1px dashed;
+  min-height: 10px;
+  padding: 5px;
+ display: inline-block;
+ margin-left: 220px;
+ cursor: pointer;
+ align-items: center;
+}
+
+#Information-Academic {
+  border: 0.1px dashed;
+  min-height: 10px;
+  padding: 5px;
+  display: inline-block;
+   margin-left: 220px;
+   cursor: pointer;
+   align-items: center;
+}
+
+#Information-Contact {
+  border: 0.1px dashed;
+  min-height: 10px;
+  padding: 5px;
+  display: inline-block;
+  margin-left: 220px;
+  cursor: pointer;
+align-items: center;
+}
+
+#General-Information {
+  color: #900C3F;
+  border: 0.2px dashed;
+  min-height: 7px;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 12px;
+  text-align: center;
+}
+
+h1 {
+ text-align: center;
+ color: #233D72;
+}
+
+h5 {
+  text-align: center;
+  color: #233D72;
+}
+
+.Urban-Planning-Themes {
+  background: #F38036;
+  background-size: px;
+  cursor: pointer;
+  color: #FFFFFF;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.Urban-Planning-Themes:hover {
+  background: grey;
+}
+
+#button-1 {
+  margin-bottom: 11px;
+  align-content: flex-start;
+}
+
+ #button-2 {
+  margin-bottom: 11px;
+  align-content: space-around;
+}
+
+#button-3 {
+  margin-bottom: 11px;
+  align-content: space-around;
+}
+
+.back {
+ text-align: right;
+ align-content: space-around;
+}
+
+.box-Info {
+  border: 0.5px dashed;
+  padding: 50px;
+  display: none;
+  text-align: center;
+  }
